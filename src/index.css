@@ -1,4 +1,8 @@
-:root {
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* :root {
   --main-bg-color-light: #f0f0f0;
   --main-text-color: #000000;
   --main-border-color: #797070;
@@ -32,4 +36,4 @@ button {
     background-color: #b6ba43;
     color: rgb(55, 36, 105);
   }
-}
+} */
